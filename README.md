@@ -28,14 +28,14 @@ This process refers to the PKL and Thesis Guidelines at the Faculty of Engineeri
 7. Students register for PKL seminars
 9. Lecturer and Administration Officer validate student seminars registration
 10. Head of Study Program Schedule seminars for students
-11. Students provide seminars results (result, revision sheets, and assessment forms) to Administration *
+11. Students provide seminars results (result, revision sheets, and assessment forms) to Administration %%
 12. Administration input the results of the student (score of seminars)
 13. Students can submit revisions to examiners
 14. Students can upload final report files to the system
 15. Students can enter the title of the thesis to be submitted, and if it already has the title, the student can submit the title to the Academic Advisor (Thesis and PKL Person in Charge)
 16. Academic Advisor can validate student titles
 
-* Non-System Manual Process
+* %% Non-System Manual Process
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 For Thesis, The Process Is Almost The Same :)
 
